@@ -1,6 +1,6 @@
 [
 {
-	"uri": "http://example.org/ko/categories/",
+	"uri": "http://aheatu.github.io/ko/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/ko/",
+	"uri": "http://aheatu.github.io/ko/",
 	"title": "Hugo Zzo Theme",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/ko/series/",
+	"uri": "http://aheatu.github.io/ko/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/ko/tags/",
+	"uri": "http://aheatu.github.io/ko/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],

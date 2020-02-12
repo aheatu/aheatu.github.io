@@ -1,7 +1,7 @@
 [
 {
-	"uri": "http://aheatu.github.io/ko/categories/",
-	"title": "Categories",
+	"uri": "http://aheatu.github.io/ko/",
+	"title": "Aheatu&#39;s Blog",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -9,8 +9,8 @@
 	"content": ""
 },
 {
-	"uri": "http://aheatu.github.io/ko/",
-	"title": "Hugo Zzo Theme",
+	"uri": "http://aheatu.github.io/ko/categories/",
+	"title": "Categories",
 	"tags": [],
 	"categories": [],
 	"series": [],

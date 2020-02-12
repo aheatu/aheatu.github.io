@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Zzo Theme</title>
+    <title>Aheatu&#39;s Blog</title>
     <link>http://aheatu.github.io/ko/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <description>Recent content on Aheatu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <managingEditor>fbxogk12@gmail.com (Aheatu)</managingEditor>
+    <webMaster>fbxogk12@gmail.com (Aheatu)</webMaster>
+    <copyright>&amp;copy;{year}, Aheatu All Rights Reserved</copyright>
     
         <atom:link href="http://aheatu.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     

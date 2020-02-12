@@ -9,11 +9,21 @@
     <managingEditor>fbxogk12@gmail.com (Aheatu)</managingEditor>
     <webMaster>fbxogk12@gmail.com (Aheatu)</webMaster>
     <copyright>&amp;copy;{year}, Aheatu All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 12 Feb 2020 20:34:57 +0900</lastBuildDate>
     
         <atom:link href="http://aheatu.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>About</title>
+        <link>http://aheatu.github.io/ko/about/</link>
+        <pubDate>Wed, 12 Feb 2020 20:34:57 +0900</pubDate>
+        <author>fbxogk12@gmail.com (Aheatu)</author>
+        <guid>http://aheatu.github.io/ko/about/</guid>
+        <description></description>
+      </item>
       
     
   </channel>
